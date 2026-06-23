@@ -1,0 +1,1 @@
+# StrengthCheckerWindow class goes here
